@@ -1,0 +1,1 @@
+SELECT DISTINCT identifier FROM pokemon;

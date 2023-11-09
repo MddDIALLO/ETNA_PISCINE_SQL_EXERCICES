@@ -1,0 +1,1 @@
+SELECT * FROM pokemon WHERE LOWER(identifier) = 'pikachu';

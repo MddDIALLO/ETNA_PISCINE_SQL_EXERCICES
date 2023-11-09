@@ -1,0 +1,1 @@
+SELECT SUM(DISTINCT level) AS resultat FROM pokemon_moves WHERE level IN (12, 14);
